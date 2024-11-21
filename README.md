@@ -28,5 +28,21 @@ This task involved analyzing player behavior using two datasets:
   1. Summary Report: A detailed overview of key insights and recommendations.
   2. Code and Workbook: Python scripts and SQL queries used for data cleaning, analysis, and visualization.
 
+## Insights
+
+The main plot is shown below for exercise #3 and indicates that: 
+**Yes, there is a trending decline in users with a strong correlation between matches finished and retention rate.**
+<br>
+<br>
+
+![image](https://github.com/user-attachments/assets/db5bbf8e-39f4-4d14-aad4-2b13205bc59f)
+<br>
+<br>
+![image](https://github.com/user-attachments/assets/eae219dc-5fd1-4488-b469-eefad1a020d5)
+<br>
+<br>
+![image](https://github.com/user-attachments/assets/aaa261a1-36c3-4a79-b57f-dd3e0808a70a)
+
+
 <br>
 <br>
